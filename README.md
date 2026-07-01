@@ -1,4 +1,4 @@
-<h2>Hi there 👋</h2>
+<h2>Hello, welcome to my backup account 👋</h2>
 
 <img
   align="right"
